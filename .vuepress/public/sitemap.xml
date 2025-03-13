@@ -4,64 +4,47 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
     <url>
-        <loc>https://tokencenter.github.io</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.00</priority>
-    </url>
-<!--     <url>
-        <loc>https://tokencenter.github.io/about/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.00</priority>
-    </url> -->
-<!--     <url>
-        <loc>https://tokencenter.github.io/cryptogift/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.00</priority>
-    </url> -->
-    <url>
-        <loc>https://tokencenter.github.io/erc20-generator/</loc>
+        <loc>https://tokencenter.github.io/</loc>
+        <lastmod>2025-03-12T22:20:40+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
         <loc>https://tokencenter.github.io/bep20-generator/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.00</priority>
-    </url>
-<!--     <url>
-        <loc>https://tokencenter.github.io/watch-token/</loc>
+        <lastmod>2025-03-12T22:20:40+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://tokencenter.github.io/ethereum-badge/</loc>
+        <loc>https://tokencenter.github.io/bep20-generator/create-token/</loc>
+        <lastmod>2025-03-12T22:20:40+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://tokencenter.github.io/eth-token-recover/</loc>
+        <loc>https://tokencenter.github.io/bep20-generator/docs/</loc>
+        <lastmod>2025-03-12T22:20:40+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://tokencenter.github.io/erc1363-payable-token/</loc>
+        <loc>https://tokencenter.github.io/erc20-generator/</loc>
+        <lastmod>2025-03-12T22:20:40+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://tokencenter.github.io/solidity-linked-list/</loc>
+        <loc>https://tokencenter.github.io/erc20-generator/create-token/</loc>
+        <lastmod>2025-03-12T22:20:40+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://tokencenter.github.io/solidity-starter-kit/</loc>
+        <loc>https://tokencenter.github.io/erc20-generator/docs/</loc>
+        <lastmod>2025-03-12T22:20:40+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
-    <url>
-        <loc>https://tokencenter.github.io/coinmarketcap-php/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.00</priority>
-    </url>
- --></urlset>
+</urlset>
